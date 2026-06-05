@@ -1,0 +1,36 @@
+{
+  "name": "crm-live",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@hookform/resolvers": "^5.2.2",
+    "@mui/icons-material": "^6.5.0",
+    "@mui/material": "^6.5.0",
+    "@mui/material-nextjs": "^9.0.1",
+    "@mui/x-date-pickers": "^6.20.2",
+    "axios": "^1.16.1",
+    "dayjs": "^1.11.21",
+    "next": "15.5.16",
+    "react": "19.1.0",
+    "react-country-flag": "^3.1.0",
+    "react-dom": "19.1.0",
+    "react-hook-form": "^7.75.0",
+    "react-hot-toast": "^2.6.0",
+    "recharts": "^3.8.1",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}

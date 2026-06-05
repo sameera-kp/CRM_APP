@@ -1,0 +1,7 @@
+ticket_name,ticket_status,priority,source
+Database Sync Error,New,Critical,Chat
+Login Page UI Fix,Waiting on us,Medium,Email
+Password Reset Issue,Waiting on contact,High,Phone
+API Gateway Timeout,New,High,Chat
+User Profile Update,Closed,Low,Email
+Mobile App Crash,New,Critical,Phone
